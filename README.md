@@ -1,3 +1,5 @@
+This file is taken from 05-839 Byte 1 Homework sample code
+
 ## Python Flask Skeleton for Google App Engine
 
 A skeleton for building Python applications on Google App Engine with the

@@ -1,3 +1,5 @@
+# This file is taken from 05-839 Byte 1 Homework sample code
+
 # This file specifies your Python application's runtime configuration
 # including URL routing, versions, static file uploads, etc. See
 # https://developers.google.com/appengine/docs/python/config/appconfig

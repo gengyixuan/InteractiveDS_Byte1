@@ -1,5 +1,7 @@
 """`main` is the top level module for your Flask application."""
 
+# This file is taken from 05-839 Byte 1 Homework sample code
+
 # Imports
 import os
 import jinja2
